@@ -1,1 +1,1 @@
-# WeatherAppBasicGuidedProject
+# Weather App (Basic Guided Project)
